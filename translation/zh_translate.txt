@@ -7007,16 +7007,27 @@ SafeAddString(SI_WORLD_MAP_OPTION_SHOW_QUESTS, "Show quest list", 0)
 SafeAddString(SI_WORLD_MAP_OPTION_SQUARE, "Force map to be square", 0)
 SafeAddString(SI_WORLD_MAP_OPTION_TRANSPARENCY, "Transparency:", 0)
 SafeAddString(SI_WORLD_MAP_RECENTER_BUTTON_TOOLTIP, "Show my location", 0)
+显示我的位置
 SafeAddString(SI_WORLD_MAP_SMALL_OPTIONS_TITLE, "Pop-Out Map Options", 0)
+打开地图选项
 SafeAddString(SI_WORLD_MAP_ZOOM, "Zoom", 0)
+放大
 SafeAddString(SI_WORLD_MAP_ZOOM_KEY, "Mousewheel", 0)
+滚轮
 SafeAddString(SI_YES, "Yes", 0)
+是
 SafeAddString(SI_ZONESCORETYPE0, "None", 0)
+无
 SafeAddString(SI_ZONESCORETYPE1, "Capture the Flag", 0)
+夺旗
 SafeAddString(SI_ZONESCORETYPE2, "Deathmatch", 0)
+死亡竞赛
 SafeAddString(SI_ZONESCORETYPE3, "Capture Point", 0)
+争夺据点
 SafeAddString(SI_ZONESCORETYPE4, "Capture Area", 0)
+争夺区域
 SafeAddString(SI_ZONESCORETYPE5, "Assault", 0)
+突袭
 SafeAddString(SI_ZONESCORETYPE6, "Death Banner", 0)
 SafeAddString(SI_ZONE_DOOR_RETICLE_INSTANCE_TYPE_FORMAT, "<<C:1>>\n<<2>>", 0)
 SafeAddString(SI_ZONE_NAME, "<<1>>", 0)
